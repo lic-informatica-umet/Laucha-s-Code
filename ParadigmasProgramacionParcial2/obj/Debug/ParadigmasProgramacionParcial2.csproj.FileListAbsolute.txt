@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\bin\Debug\ParadigmasProgramacionParcial2.exe.config
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\bin\Debug\ParadigmasProgramacionParcial2.exe
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\bin\Debug\ParadigmasProgramacionParcial2.pdb
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.Form1.resources
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.exe
+C:\Users\Lenovo\source\repos\ParadigmasProgramacionParcial2\ParadigmasProgramacionParcial2\obj\Debug\ParadigmasProgramacionParcial2.pdb
